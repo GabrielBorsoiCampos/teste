@@ -1,1 +1,6 @@
-
+body{
+    font-family: Arial, Helvetica, sans-serif; /*define a fonte do texto*/
+    margin: 20px; /*adiciona um espaço de 20 pixels em volta do conteúdo (margem)*/
+    background-color:aliceblue; /*cor de fundo branca (#fff é branco)*/
+    color:darkgreen; /*cor de texto: verde escuro (dark green)*/
+}
